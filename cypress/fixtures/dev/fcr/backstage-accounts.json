@@ -1,0 +1,17 @@
+[
+  {
+    "idTypeUser": "PETITBISCUIT_PRODUCER",
+    "login": "petitbiscuit",
+    "password": "Test1234"
+  },
+  {
+  "idTypeUser": "QA_USER_DAILYCHECK",
+  "login": "petitbiscuit",
+  "password": "Test1234"
+  },
+  {
+  "idTypeUser": "QA_USER",
+  "login": "QA_authent_1626707569040",
+  "password": "Azerty123$"
+  }
+]

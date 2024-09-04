@@ -1,0 +1,22 @@
+[
+  {
+    "idTypeUser": "QA1",
+    "login": "S_RULLAUD_TEST_AUTO",
+    "password": "Blublublu&1"
+  },
+  {
+    "idTypeUser": "SEY_USER",
+    "login": "testdono111",
+    "password": "Blabla&1"
+  },
+  {
+    "idTypeUser": "CIN_USER",
+    "login": "666",
+    "password": "6666"
+  },
+  {
+    "idTypeUser": "QA2",
+    "login": "tristan_manaut",
+    "password": "Tritri75013@"
+  }
+]

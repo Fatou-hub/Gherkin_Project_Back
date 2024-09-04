@@ -1,0 +1,13 @@
+[
+  {
+  "idTypeUser": "QA",
+  "login": "qa.automation",
+  "password": "azerty123$"
+  },
+  {
+    "idTypeUser": "QA_DAILY",
+    "login": "testqa1",
+    "password": "vMDoF85dxmZaK9BU"
+    }
+  
+]

@@ -1,0 +1,17 @@
+[
+  {
+  "idTypeUser": "QA_USER",
+  "login": "QA_authent_1626707569040",
+  "password": "Azerty123$"
+  },
+  {
+    "idTypeUser": "SEY_USER",
+    "login": "testdono111",
+    "password": "Blabla&1"
+  },
+  {
+    "idTypeUser": "CIN_USER",
+    "login": "666",
+    "password": "6666"
+  }
+]
